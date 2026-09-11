@@ -1,0 +1,22 @@
+# Requirements for the Framingham CHD Machine Learning project
+arviz
+dice-ml
+dowhy
+gymnasium
+higher
+imbalanced-learn
+joblib
+lightgbm
+matplotlib
+networkx
+numpy
+pandas
+pymc
+scipy
+seaborn
+shap
+scikit-learn
+tensorflow
+torch
+torch-geometric
+xgboost
