@@ -1,4 +1,4 @@
-# Requirements for the Framingham CHD Machine Learning project
+# Requirements for the Framingham CHD Machine Learning projects
 arviz
 dice-ml
 dowhy
